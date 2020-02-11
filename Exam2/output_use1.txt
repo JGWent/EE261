@@ -1,0 +1,37 @@
+--- Test 1 --- 
+Rectangluar coordinates of rdef: (0, 0)
+
+--- Test 2 --- 
+Rectangluar coordinates of r1: (40, 22)
+Polar coordinates of r1p: (45.6508, 0.502843 rad)
+
+--- Test 3 --- 
+Polar coordinates of p2last: (45.6508, 0.502843 rad)
+Rectangluar coordinates of p2last_r: (40, 22)
+
+--- Test 4 --- 
+rect_coords: need xco >=0 and yco >=0 [will use Cartesian origin].
+Rectangluar coordinates of wr1: (0, 0)
+
+--- Test 5 --- 
+Polar coordinates of pdef: (0, 0.523599 rad)
+Rectangluar coordinates of pdefr: (0, 0)
+
+--- Test 6 --- 
+polar_coords(): need r>=0 and 0<=theta<=PI/2 [will use polar origin].
+Polar coordinates of p1: (0, 0.523599 rad)
+Polar coordinates of p2: (0, 0.523599 rad)
+
+--- Test 7 --- 
+Polar coordinates of p3: (25, 1.0472 rad)
+{{p1 = p3}}
+Polar coordinates of p1: (25, 1.0472 rad)
+Rectangluar coordinates of p1_r: (12.5, 21.6506)
+
+--- Test 8 --- 
+Polar coordinates of p4: (0, 0.523599 rad)
+Rectangluar coordinates of p4r: (0, 0)
+
+--- Test 9 --- 
+Rectangluar coordinates of r5: (0, 0)
+Polar coordinates of r5p: (0, 0.523599 rad)
